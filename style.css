@@ -1,0 +1,66 @@
+html{
+  scroll-behavior: smooth;
+}
+body{
+  background-color: black;
+  color:white;
+  font-family:arial;
+}
+.head-logo {
+  margin-bottom: 0px;
+  display: block;
+}
+.icon-image{
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right:3px;
+  size: 12px;
+}
+.client-name{
+  color:white;
+  font-family:arial;
+  margin-top:0px;
+  font-size: 10px;
+}
+.country-info{
+  font-size: 12px;
+}
+.occupation{
+  font-size: 11px;
+}
+.cl-info{
+  background-color: rgb(58, 54, 54);
+  padding-top: 5px;
+  padding-left: 1px;
+  border: none;
+  border-radius:10px;
+  margin-left: 0px;
+  color:white;
+}
+.balance{
+  background-color: rgb(95, 92, 92);
+  font-size: 27px;
+  font-weight:bold;
+  text-align:center;
+  border: 1px solid black;
+  border-radius:13px;
+  margin-bottom:10px;
+  padding-bottom:8px;
+}
+.chart-section{
+  background-color: rgb(58, 54, 54);
+  border-radius:10px;
+  padding:5px;
+}
+.trade-info{
+  background-color: rgb(58, 54, 54);
+  border-radius:10px;
+  padding:5px;
+  margin-top:10px;
+}
+.trade-info-2{
+  background-color: rgb(58, 54, 54);
+  border-radius:10px;
+  padding:5px;
+  margin-top:10px;
+}
